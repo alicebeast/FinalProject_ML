@@ -9,4 +9,4 @@ train = pd.read_parquet("train.parquet")
 test = pd.read_parquet("test.parquet")
 sensors = pd.read_parquet("sensors.parquet")
 
-print(sensors)
+
